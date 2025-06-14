@@ -1,5 +1,5 @@
 # Digital-Logic-Sim
-by Sebastian Lague
+by Sebastian Lague <br>
 A minimalistic digital logic simulator, which I created as part of my video series: [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq).
 <br>You can find the latest builds over [here](https://sebastian.itch.io/digital-logic-sim).<br>
 
